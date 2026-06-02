@@ -29,6 +29,6 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=electrodiux-pbh&show_icons=true&locale=en&layout=compact" alt="electrodiux-pbh" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablobh2147&show_icons=true&locale=en&layout=compact" alt="pablobh2147" />
   </p>
 </div>
